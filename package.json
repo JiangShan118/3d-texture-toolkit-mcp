@@ -9,7 +9,7 @@
   },
   "mcpName": "io.github.JiangShan118/3d-texture-toolkit",
   "bin": {
-    "3d-texture-toolkit-mcp": "./dist/index.js"
+    "3d-texture-toolkit-mcp": "dist/index.js"
   },
   "files": [
     "dist/index.js",
