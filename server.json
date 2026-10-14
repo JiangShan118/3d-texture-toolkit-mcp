@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.JiangShan118/3d-texture-toolkit",
+  "description": "Extract embedded PBR texture maps from local GLB files.",
+  "repository": {
+    "url": "https://github.com/JiangShan118/3d-texture-toolkit-mcp",
+    "source": "github"
+  },
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "3d-texture-toolkit-mcp",
+      "version": "0.1.0",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ],
+  "websiteUrl": "https://www.3dtexturegenerator.com/"
+}
