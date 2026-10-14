@@ -73,7 +73,7 @@ accessible to the machine running the MCP server.
 
 ## Publication status
 
-This repository contains a prepared package and Registry metadata. It has not
-been published to npm or submitted to the official MCP Registry. The package
-uses the MIT License; npm publication and Registry submission have not yet
-happened.
+The package name is `3d-texture-toolkit-mcp`, and this repository includes
+`server.json` metadata for the official MCP Registry. The package uses the MIT
+License. After submitting it to the Registry, verify that the server is visible
+there; the metadata alone does not confirm a Registry listing.
