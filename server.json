@@ -6,12 +6,12 @@
     "url": "https://github.com/JiangShan118/3d-texture-toolkit-mcp",
     "source": "github"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "packages": [
     {
       "registryType": "npm",
       "identifier": "3d-texture-toolkit-mcp",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "transport": {
         "type": "stdio"
       }
